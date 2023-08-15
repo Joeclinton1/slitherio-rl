@@ -23,7 +23,7 @@ writer = SummaryWriter('runs/slitherio_experiment')
 extension_path = r"C:\Users\Joe\OneDrive\Documents\Programming\Chrome Extensions\ntlmod-pub"
 
 # Path to directory containing the settings file
-settings_path = "data/slither-settings-aibot.json"
+settings_path = "slither-settings-aibot.json"
 
 
 def extract_settings(file_path):
